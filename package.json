@@ -29,7 +29,7 @@
     "@turf/point-on-feature": "^6.0.2",
     "@turf/truncate": "^6.0.1",
     "benchmark": "^2.1.0",
-    "codecov": "^3.5.0",
+    "codecov": "^3.7.1",
     "debug": "^4.1.1",
     "expect.js": "^0.3.1",
     "mocha": "^5.2.0",
